@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "ibm.us.com.chat"
+        applicationId "sacdulanga.us.com.chat"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

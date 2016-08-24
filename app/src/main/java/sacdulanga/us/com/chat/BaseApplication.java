@@ -1,4 +1,4 @@
-package ibm.us.com.chat;
+package sacdulanga.us.com.chat;
 
 import android.app.Application;
 import android.content.SharedPreferences;

@@ -1,4 +1,4 @@
-package ibm.us.com.chat.common;
+package sacdulanga.us.com.chat.common;
 
 public interface ApplicationConstants {
     //http://quickblox.com/developers/Android_XMPP_Chat_Sample

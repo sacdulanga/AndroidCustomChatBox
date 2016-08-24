@@ -1,4 +1,4 @@
-package ibm.us.com.chat.ui;
+package sacdulanga.us.com.chat.ui;
 
 import android.support.v4.app.FragmentActivity;
 

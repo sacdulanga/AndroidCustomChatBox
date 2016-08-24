@@ -1,4 +1,4 @@
-package ibm.us.com.chat.ui;
+package sacdulanga.us.com.chat.ui;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -46,11 +46,11 @@ import de.tavendo.autobahn.WebSocketException;
 import de.tavendo.autobahn.WebSocketHandler;
 import hani.momanii.supernova_emoji_library.Actions.EmojIconActions;
 import hani.momanii.supernova_emoji_library.Helper.EmojiconEditText;
-import ibm.us.com.chat.R;
-import ibm.us.com.chat.common.CommonUtils;
-import ibm.us.com.chat.dto.ChatMessage;
-import ibm.us.com.chat.dto.MessageDetailOfMessageThread;
-import ibm.us.com.chat.dto.SingleMessageDetail;
+import sacdulanga.us.com.chat.R;
+import sacdulanga.us.com.chat.common.CommonUtils;
+import sacdulanga.us.com.chat.dto.ChatMessage;
+import sacdulanga.us.com.chat.dto.MessageDetailOfMessageThread;
+import sacdulanga.us.com.chat.dto.SingleMessageDetail;
 
 public class CustomChatActivity extends AppCompatActivity implements BaseBackPressedListener.OnBackPressedListener {
 

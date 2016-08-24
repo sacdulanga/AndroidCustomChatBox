@@ -1,4 +1,4 @@
-package ibm.us.com.chat.common;
+package sacdulanga.us.com.chat.common;
 
 import android.content.Context;
 import android.content.CursorLoader;
@@ -19,7 +19,7 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import ibm.us.com.chat.BaseApplication;
+import sacdulanga.us.com.chat.BaseApplication;
 
 public class CommonUtils {
 

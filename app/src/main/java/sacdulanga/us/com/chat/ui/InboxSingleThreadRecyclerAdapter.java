@@ -1,4 +1,4 @@
-package ibm.us.com.chat.ui;
+package sacdulanga.us.com.chat.ui;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -15,9 +15,9 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import hani.momanii.supernova_emoji_library.Helper.EmojiconTextView;
-import ibm.us.com.chat.R;
-import ibm.us.com.chat.common.CommonUtils;
-import ibm.us.com.chat.dto.MessageDetailOfMessageThread;
+import sacdulanga.us.com.chat.R;
+import sacdulanga.us.com.chat.common.CommonUtils;
+import sacdulanga.us.com.chat.dto.MessageDetailOfMessageThread;
 
 public class InboxSingleThreadRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

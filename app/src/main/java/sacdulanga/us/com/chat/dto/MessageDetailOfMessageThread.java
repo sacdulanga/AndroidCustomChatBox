@@ -1,4 +1,4 @@
-package ibm.us.com.chat.dto;
+package sacdulanga.us.com.chat.dto;
 
 import lombok.Getter;
 import lombok.Setter;
