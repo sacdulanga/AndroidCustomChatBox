@@ -55,7 +55,7 @@ import ibm.us.com.chat.dto.SingleMessageDetail;
 public class CustomChatActivity extends AppCompatActivity implements BaseBackPressedListener.OnBackPressedListener {
 
     final String TAG = CustomChatActivity.this.getClass().getSimpleName();
-    private static final String         BLUEMIX = "ws://192.168.200.77:5599/chat";
+    private static final String         BLUEMIX = "ws://***.***.***.**:5599/chat";
     private static final String         CLIENT_PREFIX = "chat_";
     private static final String         KEY_DATA = "data";
     private static final String         KEY_PAYLOAD = "payload";
