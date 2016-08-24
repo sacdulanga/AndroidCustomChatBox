@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WebSockets Chat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="placeholder">Send chat message</string>
+
+    <string name="type_something">Type something</string>
+    <string name="do_not_have_any_message">You have no open conversations. Pull down to refresh messages.</string>
+
+    <string name="please_wait">Please wait…</string>
+
+    <integer-array name="google_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+    </integer-array>
+
+</resources>

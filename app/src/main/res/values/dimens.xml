@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+
+    <dimen name="menu_text_size">18dp</dimen>
+    <dimen name="large_text_size">14dp</dimen>
+    <dimen name="default_text_size">12dp</dimen>
+    <dimen name="small_text_size">10dp</dimen>
+    <dimen name="button_text_size">18dp</dimen>
+    <dimen name="user_name_text_size">22dp</dimen>
+    <dimen name="bottom_tab_text_size">8dp</dimen>
+    <dimen name="sign_up_title_text_size">25dp</dimen>
+    <dimen name="sign_up_horizontal_margin">25dp</dimen>
+    <dimen name="feed_title_text_size">18dp</dimen>
+    <dimen name="profile_user_name_text_size">16dp</dimen>
+
+    <dimen name="signup_logo_margin_top">90dp</dimen>
+    <dimen name="signup_login_button_margin_top">20dp</dimen>
+    <dimen name="signup_edit_texts_container_margin_top">10dp</dimen>
+    <dimen name="signup_edit_text_box_height">35dp</dimen>
+    <dimen name="signup_button_height">45dp</dimen>
+    <dimen name="signup_user_name_container_margin_top">30dp</dimen>
+    <dimen name="forgot_password_keyboard_space_height">200dp</dimen>
+    <dimen name="forgot_password_button_margin_top">50dp</dimen>
+    <dimen name="user_profile_image_container_margin_top">140dp</dimen>
+
+    <dimen name="feed_attachments_img_size">50dp</dimen>
+
+    <dimen name="seemore_image_height">230dp</dimen>
+    <dimen name="seemore_circleindicator_top_margin">-80dp</dimen>
+    <dimen name="seemore_detail_top_margin">-55dp</dimen>
+
+    <dimen name="main_lable_height">26dp</dimen>
+    <dimen name="main_lable_right_margin">-10dp</dimen>
+    <dimen name="seemore_bottom_panel_height">28dp</dimen>
+
+    <dimen name="profile_img_size">90dp</dimen>
+    <dimen name="attachment_img_left_margin">25dp</dimen>
+
+    <dimen name="inbox_row_main_margin">15dp</dimen>
+    <dimen name="inbox_row_title_margin">2dp</dimen>
+    <dimen name="inbox_row_desc_margin">2dp</dimen>
+    <dimen name="inbox_img_size">45dp</dimen>
+    <dimen name="feed_sender_text_size">14dp</dimen>
+</resources>

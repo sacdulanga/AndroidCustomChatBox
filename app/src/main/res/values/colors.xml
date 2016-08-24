@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#f3f3f3</color>
+    <color name="colorPrimaryDark">#FF4081</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- basic colors -->
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#99000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#4169E1</color>
+    <color name="green">#2c8e19</color>
+    <color name="red">#860c0f</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="ash">#828282</color>
+    <color name="grey">#454545</color>
+
+    <!-- app colors -->
+    <color name="theme_color">#05ad97</color>
+    <color name="theme_color_dark">#006759</color>
+    <color name="theme_color_light">#3fc1c7</color>
+
+
+    <color name="grey_2">#d7d7d7</color>
+
+    <color name="sign_up_edit_text_color">#016e5f</color>
+    <color name="sign_up_button_color">#e2487d</color>
+    <color name="sign_up_edit_text_background_color">#F2ffffff</color>
+    <color name="sign_up_edit_text_transparent_background_color">#00ffffff</color>
+    <color name="sign_up_text_color">#9f9e9e</color>
+    <color name="sign_up_password_text_color">#ff2e50</color>
+    <color name="sign_up_email_text_color">#4a4a4a</color>
+
+
+    <color name="feed_image_fill_color">#d3cdcd</color>
+    <color name="feed_image_page_color">#ebeaea</color>
+
+    <color name="bottom_bar_inbox_color">#cd582a</color>
+    <color name="bottom_bar_feed_color">#e2487d</color>
+    <color name="bottom_bar_recognise_color">#e2487d</color>
+    <color name="bottom_bar_casual_color">#e2487d</color>
+    <color name="bottom_bar_profile_color">#05ad97</color>
+    <color name="bottom_bar_default_color">#818181</color>
+    <color name="bottom_bar_item_press_color">#cd582a</color>
+
+    <color name="bottom_bar_bg_color">#f3f3f3</color>
+    <color name="bottom_bar_default_text_color">#a7a7a7</color>
+    <color name="transparent_white_color">#66FFFFFF</color>
+
+    <color name="feed_header_bg_color">#ffefc3</color>
+    <color name="feed_header_text_color">#e2487d</color>
+    <color name="msg_successfull_color">#15F745</color>
+    <color name="profile_line_separator_color">#ececec</color>
+
+    <color name="image_indicator_color">#99d8d3b2</color>
+    <color name="user_group_name_color">#9B9B9B</color>
+    <color name="top_snak_bar_success_color">#15F745</color>
+
+    <color name="timeago_text_color">#aeaeae</color>
+
+    <color name="link_color">#2727f0</color>
+    <color name="inbox_single_thread_sender_date_color">#82d6cb</color>
+
+    <color name="log_out_text_color">#ff0000</color>
+    <color name="confirm_licence_agreement_button_color">#36bfd2</color>
+
+    <color name="inbox_msg_unread_color">#F8C471</color>
+    <color name="transparent_unread_color">#99F8C471</color>
+
+</resources>

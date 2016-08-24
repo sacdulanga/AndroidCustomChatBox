@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/single_msg_parent_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp">
+
+    <RelativeLayout
+        android:id="@+id/single_msg_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_inbox_single_thread_sender"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/txt_date"
+            style="@style/default_text_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="@color/inbox_single_thread_sender_date_color"
+            android:textSize="@dimen/small_text_size" />
+
+        <hani.momanii.supernova_emoji_library.Helper.EmojiconTextView
+            android:id="@+id/txt_msg_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_date"
+            android:layout_marginTop="10dp"
+            android:autoLink="web|phone"
+            android:textColor="@color/white"
+            android:textColorLink="@color/link_color"
+            android:textSize="@dimen/default_text_size" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
